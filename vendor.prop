@@ -237,6 +237,9 @@ persist.vendor.hvdcp_opti.disallowed=1
 # Keystore
 ro.hardware.keystore_desede=true
 
+# Media
+debug.stagefright.c2inputsurface=-1
+
 # NFC
 ro.camera.notify_nfc=1
 
